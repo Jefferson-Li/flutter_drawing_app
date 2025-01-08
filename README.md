@@ -1,5 +1,8 @@
 # flutter_drawing_app
 
+# 成果圖
+   ![alt text](image.png)
+
 # 簡單繪圖程式 (Simple Drawing App)
 
 這是一個使用 Flutter 開發的簡單繪圖應用程式，提供基本的繪圖功能。
